@@ -1,4 +1,4 @@
-package main
+package goutils
 
 func main() {
 	logger := NewServiceLogger("new-service")
